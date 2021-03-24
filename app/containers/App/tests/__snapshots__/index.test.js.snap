@@ -10,6 +10,16 @@ exports[`<App /> should render and match the snapshot 1`] = `
     />
     <Route
       component={[Function]}
+      exact={true}
+      path="/task-1"
+    />
+    <Route
+      component={[Function]}
+      exact={true}
+      path="/task-2"
+    />
+    <Route
+      component={[Function]}
     />
   </Switch>
   <GlobalStyleComponent />
